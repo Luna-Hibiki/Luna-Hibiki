@@ -8,7 +8,7 @@ My name is Luna-Hibiki (just an name I use for social account and github or anyt
 I'm just a human or not a robbot (□_□) and i like to read book or code shome things is useless or not :V
 
 
-![About image](data/img/github_profile_image_about.png)
+![About image](data/image/github_profile_image_about.png)
 
 About me is simple:
 
@@ -16,7 +16,7 @@ About me is simple:
 - Like to code (but can suck sometime :V), reading book like: novel, lightnovel, manga,... (three last is an japanese book) and watching film ＼(￣▽￣)／
 - Like to make friend with another people on internet but I'm very bas at starting a conversation
 
-![Social image](data/img/github_profile_image_social.png)
+![Social image](data/image/github_profile_image_social.png)
 
 - Github: Luna-Hibiki (Yep that is :3)
 
