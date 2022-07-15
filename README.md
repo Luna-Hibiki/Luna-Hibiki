@@ -1,8 +1,7 @@
 
 # Hello :3
 
-![Header image]('./data/image/github_profile_image_header.png')
-
+![Header image]('./data/image/github_profile_image_header.png
 
 My name is Luna-Hibiki (just an name I use for social account and github or anything i use on internet ＼(￣▽￣)／ and my real name is ... Yeah that is an personal information so I will be keep it in as secret :V)
 
@@ -19,6 +18,11 @@ About me is simple:
 
 ![Social image]('./data/img/github_profile_image_social.png')
 
+- Github: Luna-Hibiki (Yep that is :3)
+
+- DevianArt: Luna-Hibiki
+
+- Twitter: *will be update soon :<*
 # About copyright
 
 The image I use is from 'UnSplash' - an website for you to download a good wallpaper for your desktop (your phone or any device can set wallpaper ＼(￣▽￣)／), and it was FREE :>
