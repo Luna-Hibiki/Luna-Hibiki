@@ -18,3 +18,7 @@ About me is simple:
 - Like to make friend with another people on internet but I'm very bas at starting a conversation
 
 ![Social image]('./data/img/github_profile_image_social.png')
+
+# About copyright
+
+The image I use is from 'UnSplash' - an website for you to download a good wallpaper for your desktop (your phone or any device can set wallpaper ＼(￣▽￣)／), and it was FREE :>
