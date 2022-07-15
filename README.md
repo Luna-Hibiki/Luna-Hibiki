@@ -14,7 +14,8 @@ About me is simple:
 
 - Live in Viet Nam (an small countries on ASIA and a member of 'ASEAN' aka 'Association of South East Asian Nations')
 - Like to code (but can suck sometime :V), reading book like: novel, lightnovel, manga,... (three last is an japanese book) and watching film ＼(￣▽￣)／
-- Like to make friend with another people on internet but I'm very bas at starting a conversation
+- Like to make friend with another people on internet but I'm very bad at starting a conversation :<
+- For coding I use nvim or neovide as my code editor with some plugin, for github I use github desktop and git from commandline to work :>
 
 ![Social image](data/image/github_profile_image_social.png)
 
