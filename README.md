@@ -14,4 +14,6 @@
   life("wake")
 ```
 
+Luna-Hibiki have been there ...
+
 ![:Luna-Hibiki](https://count.getloli.com/get/@:Luna-Hibiki)
