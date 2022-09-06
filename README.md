@@ -2,4 +2,4 @@
 
 ---
 
-1[:Luna-Hibiki](https://count.getloli.com/get/@:Luna-Hibiki)
+![:Luna-Hibiki](https://count.getloli.com/get/@:Luna-Hibiki)
