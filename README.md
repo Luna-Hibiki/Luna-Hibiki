@@ -8,7 +8,7 @@ Total visitor to this page <img alt="" src="https://count.getloli.com/get/@:Luna
 </br>
 </br>
 
-- 🌏 I'm from <img alt="vn_flag" src="./data/vn.svg" width="16px">
+- 🌏 I'm from <img alt="vn_flag" src="./data/flag/vn.svg" width="16px">
 - 📚 I'm like to reading book like:
 </br>
 <table>
